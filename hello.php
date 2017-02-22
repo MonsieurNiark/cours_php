@@ -7,7 +7,7 @@
 
 <body>
 <?php
-	echo '<h1>Bonjour à tous</h1>';
+	echo '<h1>Bonjour à tous ! Nous sommes le ',date('d/m/Y h:i:s'),'</h1>';
 ?>
 </body>
 </html>
